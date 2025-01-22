@@ -202,5 +202,5 @@ View official GNU site <http://www.gnu.org/licenses/gpl.html>.
 
 Author Information
 ------------------
-
+* Add contact information
 * [Lucas Costa Beyeler](https://github.com/lucascbeyeler) - lucas.costab@outlook.com
